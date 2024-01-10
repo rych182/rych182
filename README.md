@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo
-- 👀 I’m interested in Frontend/PHP/Wordpress
-- 🌱 I’m currently learning about React, design patterns
+- 👀 I’m interested in Frontend/VueJS
+- 🌱 I’m currently learning about VueJS, design patterns and more...
 - 💞️
 - 📫 
 
