@@ -10,7 +10,7 @@
 ![Git](https://ivangabriele.gallerycdn.vsassets.io/extensions/ivangabriele/vscode-git-add-and-commit/2.1.1/1563631289982/Microsoft.VisualStudio.Services.Icons.Default)
 
 I currently work creating landing pages, spa, mockups, training junior developers and continuously studying.
-This is my [blog](https://medium.com/@Rych182) if you want to read about me and my work(I would like you to write me a greeting on my blog 🤣) .
+This is my [blog](https://medium.com/@Rych182) if you want to read about me and my work(I would like you to write me a greeting on my blog 🤣😘💙) .
 <!---
 rych182/rych182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
