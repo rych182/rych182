@@ -1,9 +1,10 @@
 👋 Hi, I’m Ricardo Garrido from 🇲🇽🌵🏜️🪅🌮🌯🌶️🥑 working at home like a frontend developer💻🖥️🖱️
-![Ajolote](https://yogendra.me/2017/07/20/migration-mania/html-js-css.png)
-![Hola](https://www.rnwmultimedia.edu.in/assets/img/icon/jquery.webp)
-![Ajolote](https://media.licdn.com/dms/image/v2/C4E12AQH-nvJEgehdgQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520206701442?e=2147483647&v=beta&t=JayClY13eRUpr9qnSLrJ5JIltfkr5DXf2OWG570Ch5w)
-![Ajolote](https://mariohd.com/content/images/2019/05/bootstrap-sass.png)
-![Ajolote](https://cdn-1.webcatalog.io/catalog/npm/npm-icon-filled-256.png?v=1714781189228)
+---
+![HTML-CSS-JS](https://yogendra.me/2017/07/20/migration-mania/html-js-css.png)
+![Jquery](https://www.rnwmultimedia.edu.in/assets/img/icon/jquery.webp)
+![Vue](https://www.easternts.com.au/wp-content/uploads/home_img/icons/vuejs.png)
+![Bootstrap - SASS](https://mariohd.com/content/images/2019/05/bootstrap-sass.png)
+![NPM](https://cdn-1.webcatalog.io/catalog/npm/npm-icon-filled-256.png?v=1714781189228)
 
 
 <!---
