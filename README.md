@@ -1,6 +1,6 @@
 👋 Hi, I’m Ricardo Garrido from 🇲🇽🌵🏜️🪅🌮🌯🌶️🥑🤠👨‍🎓✍️ working at home like a frontend developer💻🖥️🖱️
 I currently work creating landing pages, spa, mockups, training junior developers and continuously studying.
-This is my [blog](https://medium.com/@Rych182) if you want to read about me and my work(I would like you to write me a greeting on my blog ✍️🤣😘💙) .
+This is my [blog](https://medium.com/@Rych182) if you want to read about me and my work(drop me a comment, I´d love to read you! ✍️🤣😘💙) .
 ---
 # These are the technologies I use in my daily life ✌️👌🫰🤟🖖🤜🫶🤝
 ![HTML-CSS-JS](https://yogendra.me/2017/07/20/migration-mania/html-js-css.png)
