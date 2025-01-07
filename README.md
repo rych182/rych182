@@ -5,7 +5,9 @@
 ![Vue](https://www.easternts.com.au/wp-content/uploads/home_img/icons/vuejs.png)
 ![Bootstrap - SASS](https://mariohd.com/content/images/2019/05/bootstrap-sass.png)
 ![NPM](https://cdn-1.webcatalog.io/catalog/npm/npm-icon-filled-256.png?v=1714781189228)
-
+![VSC](https://portapps.io/img/app/vscode.png)
+![GitHub](https://github.gallerycdn.vsassets.io/extensions/github/classroom/0.0.4/1698939750205/Microsoft.VisualStudio.Services.Icons.Default)
+![Git](https://ivangabriele.gallerycdn.vsassets.io/extensions/ivangabriele/vscode-git-add-and-commit/2.1.1/1563631289982/Microsoft.VisualStudio.Services.Icons.Default)
 
 <!---
 rych182/rych182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
