@@ -8,6 +8,7 @@ This is my [blog](https://medium.com/@Rych182) if you want to read about me and 
 ![Vue](https://cdn.shopify.com/s/files/1/0533/2089/files/vuejs-tutorial.png?v=1509471047)
 ![Bootstrap - SASS](https://cdn.raiolanetworks.com/blog/wp-content/uploads/portada-3.jpg)
 ![NPM](https://cdn-1.webcatalog.io/catalog/npm/npm-icon-filled-256.png?v=1714781189228)
+![Vuetify](https://flaviocopes.com/images/netlify/netlify-logo.png)
 ![VSC](https://portapps.io/img/app/vscode.png)
 ![GitHub](https://github.gallerycdn.vsassets.io/extensions/github/classroom/0.0.4/1698939750205/Microsoft.VisualStudio.Services.Icons.Default)
 ![Git](https://ivangabriele.gallerycdn.vsassets.io/extensions/ivangabriele/vscode-git-add-and-commit/2.1.1/1563631289982/Microsoft.VisualStudio.Services.Icons.Default)
