@@ -6,7 +6,7 @@ This is my [blog](https://medium.com/@Rych182) if you want to read about me and 
 ![HTML-CSS-JS](https://yogendra.me/2017/07/20/migration-mania/html-js-css.png)
 ![Jquery](https://www.rnwmultimedia.edu.in/assets/img/icon/jquery.webp)
 ![Vue](https://cdn.shopify.com/s/files/1/0533/2089/files/vuejs-tutorial.png?v=1509471047)
-![Bootstrap - SASS](https://mariohd.com/content/images/2019/05/bootstrap-sass.png)
+![Bootstrap - SASS](https://cdn.raiolanetworks.com/blog/wp-content/uploads/portada-3.jpg)
 ![NPM](https://cdn-1.webcatalog.io/catalog/npm/npm-icon-filled-256.png?v=1714781189228)
 ![VSC](https://portapps.io/img/app/vscode.png)
 ![GitHub](https://github.gallerycdn.vsassets.io/extensions/github/classroom/0.0.4/1698939750205/Microsoft.VisualStudio.Services.Icons.Default)
